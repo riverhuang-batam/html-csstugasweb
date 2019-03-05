@@ -1,0 +1,22 @@
+.box{
+width: 36cm;
+height: 25cm;
+padding-block-end: 20cm auto;
+position: relative;
+background-image: url(hqdefault.jpg);
+background-size: cover;
+font-size: 5cm;
+text-align: center;
+position: absolute;
+top: 50%;
+color: blue;
+    
+
+}
+
+
+
+.madd{
+padding-block-end: 30cm;
+
+}
