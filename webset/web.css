@@ -1,10 +1,9 @@
 .back{
 background-image: url(sakura3.jpg);
 background-size: cover;
-background-attachment: fixed;
-width: 1380px;
-height: 230px;
 
+
+height: -webkit-fill-available;
 
 }
 .box{
@@ -23,4 +22,7 @@ img{
     width:  75px;
     height: 70px;
     margin: 30px;
+}
+body{
+    margin:0px;
 }
